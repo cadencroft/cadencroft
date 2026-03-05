@@ -1,5 +1,5 @@
 # About Me
-## Hello! My name is Caden Croft. I am currently a student at IUP persuing a dual degree in Software Engineering and Data Science Mathematics.
+Hello! My name is Caden Croft. I am currently a student at IUP persuing a dual degree in Software Engineering and Data Science Mathematics.
 
 ## Skills:
 Languages: Python, Java, JSON, SQL, MIPS Assembly
